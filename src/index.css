@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+  }
+
+html {
+scroll-behavior: smooth;
+}
+
+body {
+margin: 0;
+min-width: 320px;
+min-height: 100vh;
+}
+
+button,
+input,
+select,
+textarea {
+font: inherit;
+}
+
+button {
+cursor: pointer;
+}
+
+a {
+color: inherit;
+}
