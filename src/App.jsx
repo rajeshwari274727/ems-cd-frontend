@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import "./App.css";
 
-const API = "http://localhost:8080/api";
+const API = "cms-cd-backend-production.up.railway.app";
 const DOCTOR_PASSWORD = "MedSlot@Doctor2026";
 
 function App() {
